@@ -1,1 +1,1 @@
-A fullstack sign-up page using Nodejs, EJS, Bootstrap and Mailchimp API 
+A fullstack sign-up page using Nodejs, Javascript, Html, CSS, Bootstrap and Mailchimp API 
